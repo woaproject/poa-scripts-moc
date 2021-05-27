@@ -1,4 +1,4 @@
-# Scripts for Master of Ceremony
+# WOA Scripts for Master of Ceremony
 
 ## generateInitialKey
 
